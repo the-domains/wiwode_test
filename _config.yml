@@ -1,0 +1,14 @@
+layout_spectrum: 0.7975562908686697
+typography_spectrum: 0.9124295942019671
+color:
+  brandStrength: 0.05376543616876006
+  lightness: 0.4845878866035491
+  saturation: 0.8725443615112454
+  rhythmicContrast: 0.08964024903252721
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: wiwode_test
